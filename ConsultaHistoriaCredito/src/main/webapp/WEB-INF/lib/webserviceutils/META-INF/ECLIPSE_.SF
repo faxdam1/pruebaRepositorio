@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 4c49dABZOF0zo9bMxik9qsKAHTw=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: pxOdIki1e3d7zl6QomebB5muhGM=
+
+Name: org/eclipse/jst/ws/util/SoapElementRuntimeException.class
+SHA1-Digest: FybrCKpDfgDz+aPLOuA5g1Kq2bg=
+
+Name: org/eclipse/jst/ws/util/DomElementHelper.class
+SHA1-Digest: qg5FWCSB7xafuw8BVflvW6due7w=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jst/ws/util/JspUtils.class
+SHA1-Digest: hNP+Jj0dp0I4iU1hA93pl12r0Ls=
+
+Name: org/eclipse/jst/ws/util/SoapElementHelper.class
+SHA1-Digest: HiE/A4LsvpG7sM5atANXQIbS3kY=
+
+Name: org/eclipse/jst/ws/util/SoapElementSaxHandler.class
+SHA1-Digest: VJeOeWgNofKIGjYS1O7+Im32YGY=
+

@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.3
+Created-By: pxi3260sr9fp2-20110625_01 (SR9 FP2) (IBM Corporation)
+
+Name: org/eclipse/jst/ws/util/SoapElementRuntimeException.class
+SHA1-Digest: 1buCUsCq+k+CmXpDYvHCqzT6g0M=
+
+Name: org/eclipse/jst/ws/util/DomElementHelper.class
+SHA1-Digest: B+mXDh2MjQ3q5leEf2RTOrKCzgQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jst/ws/util/JspUtils.class
+SHA1-Digest: LEP1Not6hu9A6S2iOHg0XhL6MSY=
+
+Name: org/eclipse/jst/ws/util/SoapElementHelper.class
+SHA1-Digest: talBDSVJLuRXcHJukawte80qUo4=
+
+Name: org/eclipse/jst/ws/util/SoapElementSaxHandler.class
+SHA1-Digest: Wpgj3zEVco7eHMycRN5JOSBm+Xk=
+
