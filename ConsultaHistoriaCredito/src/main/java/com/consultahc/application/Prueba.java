@@ -15,7 +15,11 @@ public class Prueba {
 
 	public static void main(String[] args) {
 		try {
+<<<<<<< HEAD
 //Pruebas30
+=======
+//Pruebas31
+>>>>>>> refs/heads/prueba
 			HCServiceImpl2Proxy ws = new HCServiceImpl2Proxy();
 
 			String prueba = "<?xml version='1.0' encoding='UTF-8'?> "
