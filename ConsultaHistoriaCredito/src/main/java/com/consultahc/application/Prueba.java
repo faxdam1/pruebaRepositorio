@@ -15,10 +15,7 @@ public class Prueba {
 
 	public static void main(String[] args) {
 		try {
-
-//Pruebas10
-
-
+//Pruebas21
 			HCServiceImpl2Proxy ws = new HCServiceImpl2Proxy();
 
 			String prueba = "<?xml version='1.0' encoding='UTF-8'?> "
